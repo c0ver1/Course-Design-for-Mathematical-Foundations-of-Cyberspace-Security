@@ -1,2 +1,3 @@
 # -_-
-Course Design for Mathematical Foundations of Cyberspace Security
+Course Design for Mathematical Foundations of Cyberspace Security  
+ps.在README.md里写矩阵一直没法正常显示，才知道github的md目前不支持对TeX语法的渲染，避坑……
